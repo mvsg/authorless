@@ -1,0 +1,16 @@
+{
+  "name": "Authorless",
+  "description": "Hide Authors of Facebook Posts",
+  "version": "0.2",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "Hide Authors"
+  },
+  "manifest_version": 2
+}
