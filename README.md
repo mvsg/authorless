@@ -7,6 +7,6 @@ Run extension:
 
 1. To run this extension simply download all files. Make sure they are all sitting in one folder. Open the browser 'Chrome' with activated developer mode.
 
-2. Activate the developer mode by selecting Chrome > Windows > Extensions. Make sure the "Developer Mode" checkbox is checked.
+2. Activate the developer mode by selecting Chrome > Window > Extensions. Make sure the "Developer Mode" checkbox is checked.
 
-3. Navigate to 'Window > Extensions' and drag the folder 'authorless' into it.
+3. Navigate to Window > Extensions and drag the folder containing all files into it.
