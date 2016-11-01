@@ -5,7 +5,7 @@ Authorless is a simple Google Chrome browser extension that hides meta data of t
 
 Run extension:
 
-1. To run this extension simply download all files. Do so by going to github.com/mvsg/authorless and selecting "Clone or Download" and the "Downlaod ZIP".
+1. To run this extension simply download all files. Do so by going to github.com/mvsg/authorless and selecting "Clone or Download" and the "Download ZIP".
 
 2. Make sure they are all sitting in one folder. Open the browser 'Chrome' with activated developer mode.
 
