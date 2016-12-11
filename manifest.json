@@ -3,7 +3,7 @@
   "description": "Hide Authors of Facebook Posts",
   "version": "0.2",
   "permissions": [
-    "activeTab"
+    "activeTab", "webNavigation", "*://*/*"
   ],
   "background": {
     "scripts": ["background.js"],
